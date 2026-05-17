@@ -1,7 +1,7 @@
 ## Preview Sistem
 
 <p align="center">
-  <img src="../assets/landing-page.png" alt="Landing Page SIAKAD" width="100%">
+  <img src="/workspaces/.github/assets/landing-page.png" alt="Landing Page SIAKAD" width="100%">
 </p>
 
 # SIAKAD MAS Aisyiyah Medan
