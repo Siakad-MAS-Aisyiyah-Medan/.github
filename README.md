@@ -1,3 +1,9 @@
+## Preview Sistem
+
+<p align="center">
+  <img src="../assets/landing-page.png" alt="Landing Page SIAKAD" width="100%">
+</p>
+
 # SIAKAD MAS Aisyiyah Medan
 
 Repositori ini berisi pengembangan Sistem Informasi Akademik berbasis web untuk MAS Aisyiyah Medan.
