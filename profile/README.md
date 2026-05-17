@@ -8,11 +8,13 @@ Sistem Informasi Akademik ini dikembangkan untuk membantu proses pengelolaan dat
 
 ## Repositori
 
-- **backend-siakad**  
-  Backend API menggunakan Laravel.
+### Backend API
+Repository backend Laravel:
+https://github.com/Siakad-MAS-Aisyiyah-Medan/backend-siakad
 
-- **frontend-siakad**  
-  Frontend aplikasi menggunakan React/Vite.
+### Frontend Web
+Repository frontend React + Vite:
+https://github.com/Siakad-MAS-Aisyiyah-Medan/frontend-siakad
 
 ## Fitur Utama
 
